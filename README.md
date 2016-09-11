@@ -21,6 +21,7 @@ Table of Content
   * Custom Routing Configuration
   * Flask Template Usage
   * Flask Flash Messages and Custom Error Pages
+
 * Implementing Create and Read through a RESTful API
   * CRUD and REST Basics
   * Using SQLAlchemy for Model Mapping
