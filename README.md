@@ -1,3 +1,4 @@
+
 # Web API Development with FLASK
 
 > In recent years REST (REpresentational State Transfer) has emerged as the standard architectural design for web services and web APIs.
@@ -13,7 +14,38 @@ The characteristics of a REST system are defined by six design rules:
   * Uniform Interface: The method of communication between a client and a server must be uniform.
   * Code on demand: Servers can provide executable code or scripts for clients to execute in their context. This constraint is the only one that is optional.
 
-Table of Content
+![N|Solid](http://akamaicovers.oreilly.com/images/0636920050339/cat.gif)
+
+```sh  
+Web API Development with Flask
+By Gergo Bogdan
+Publisher: Packt Publishing
+Final Release Date: January 2016
+```
+
+## Master RESTful API development with Python and Flask
+
+Building good web APIs is not an easy task, but is a necessity for applications that support multiple platforms (mobile, tablet, and web applications) especially with the modern, mobile-first approach to development. In this course, you will learn how to build up and structure an effective web API that can be used by any client application accessing it over the HTTP protocol.
+
+We will start out with basics of the Flask framework before establishing a comprehensive foundation of working with CRUD operations using SQLAlchemy and MySQL as the data store. You’ll get an understanding of how REST works relative to APIs, and we’ll cover how to test APIs written in Python with the support of Flask. You will learn about token-based authentication and find out how to store passwords securely in your database. Best practices and design guidelines when building large applications are also presented.
+
+After completing Web API Development with Flask, you will have enhanced your technical knowledge about RESTful web APIs and have absorbed best practices that can be applied practically in the future.
+
+## Who this course is for
+
+This video is for web developers who want to build RESTful web APIs using Flask with Python. Developers should be familiar with Python and basic web concepts, such as HTTP verbs and JSON, and should possess basic database knowledge in order to understand SQLAlchemy concepts.
+
+## What you will learn from this course
+
+* Understand the fundamental capabilities of the Flask framework
+* Find out how HTTP/Verb methods are used for CRUD operations
+* Become efficient using SQLAlchemy to store and query data models
+* Design and develop large applications independently from Flask
+* Integrate and develop authorization mechanisms in web APIs
+* Explore security principles, and understand how storing passwords should be implemented
+* Use the Flask test client efficiently to run automated tests
+
+## Table of Content
 ---
 * Getting Up to Speed with Flask
   * The Course Overview
