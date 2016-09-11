@@ -20,5 +20,33 @@ Table of Content
   * Setting Up Flask and Creating Your First Flask Application
   * Custom Routing Configuration
   * Flask Template Usage
-  * Flask Flash Messages and Custom Error Pages 03m  24s
+  * Flask Flash Messages and Custom Error Pages
+* Implementing Create and Read through a RESTful API
+  * CRUD and REST Basics
+  * Using SQLAlchemy for Model Mapping
+  * Implementing Create
+  * Implementing Read
+
+* Implementing Update and Delete through a RESTful API
+  * Implementing Update
+  * Implementing Delete
+  * Hypermedia
+  * Implementing Pagination
  
+* Extending the Web API
+  * RESTful Authentication
+  * HTTP Caching
+  * Error Handling in RESTful APIs
+  * Guidelines for Building Large Projects
+ 
+* Securing Web APIs
+  * Why Use HTTPS?
+  * Token Authentication
+  * Usage of Cookies
+  * Storing Passwords 03m  48s
+ 
+* Testing Web APIs
+  * Using the Flask Test Client
+  * Testing Custom Flask Routes
+  * Testing CRUD
+  * Testing Authentication
