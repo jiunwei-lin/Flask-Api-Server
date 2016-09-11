@@ -1,5 +1,5 @@
 # Web API Development with FLASK
----
+
 > In recent years REST (REpresentational State Transfer) has emerged as the standard architectural design for web services and web APIs.
 >
 > In this article I'm going to show you how easy it is to create a RESTful web service using Python and the Flask microframework.
@@ -14,7 +14,7 @@ The characteristics of a REST system are defined by six design rules:
   * Code on demand: Servers can provide executable code or scripts for clients to execute in their context. This constraint is the only one that is optional.
 
 Table of Content
-===
+---
 * Getting Up to Speed with Flask
   * The Course Overview
   * Setting Up Flask and Creating Your First Flask Application
