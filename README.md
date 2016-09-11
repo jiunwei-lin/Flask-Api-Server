@@ -13,6 +13,8 @@ The characteristics of a REST system are defined by six design rules:
   * Layered System: Communication between a client and a server should be standardized in such a way that allows intermediaries to respond to requests instead of the end server, without the client having to do anything different.
   * Uniform Interface: The method of communication between a client and a server must be uniform.
   * Code on demand: Servers can provide executable code or scripts for clients to execute in their context. This constraint is the only one that is optional.
+  
+[ more...](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
 
 ![](http://akamaicovers.oreilly.com/images/0636920050339/cat.gif)
 
