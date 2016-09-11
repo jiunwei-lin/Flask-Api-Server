@@ -2,5 +2,7 @@
 Web API Development with FLASK
  
 ```sh
-$pin install
+1
+2
+3
 ```
