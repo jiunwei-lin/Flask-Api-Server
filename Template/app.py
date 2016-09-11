@@ -33,4 +33,4 @@ def senior_candidate(candidates):
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
