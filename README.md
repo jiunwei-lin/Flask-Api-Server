@@ -14,7 +14,7 @@ The characteristics of a REST system are defined by six design rules:
   * Uniform Interface: The method of communication between a client and a server must be uniform.
   * Code on demand: Servers can provide executable code or scripts for clients to execute in their context. This constraint is the only one that is optional.
 
-![]http://akamaicovers.oreilly.com/images/0636920050339/cat.gif
+![](http://akamaicovers.oreilly.com/images/0636920050339/cat.gif)
 
 ```sh  
 Web API Development with Flask
