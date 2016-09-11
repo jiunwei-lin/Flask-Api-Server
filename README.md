@@ -14,7 +14,7 @@ The characteristics of a REST system are defined by six design rules:
   * Uniform Interface: The method of communication between a client and a server must be uniform.
   * Code on demand: Servers can provide executable code or scripts for clients to execute in their context. This constraint is the only one that is optional.
 
-![N|Solid](http://akamaicovers.oreilly.com/images/0636920050339/cat.gif)
+(http://akamaicovers.oreilly.com/images/0636920050339/cat.gif)
 
 ```sh  
 Web API Development with Flask
@@ -46,7 +46,7 @@ This video is for web developers who want to build RESTful web APIs using Flask 
 * Use the Flask test client efficiently to run automated tests
 
 ## Table of Content
----
+
 * Getting Up to Speed with Flask
   * The Course Overview
   * Setting Up Flask and Creating Your First Flask Application
